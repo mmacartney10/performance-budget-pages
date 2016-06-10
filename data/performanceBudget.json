@@ -1,0 +1,39 @@
+{
+  "fileTypes": {
+    "css": {
+      "total": 414,
+      "files": [
+        {
+          "file": "/Users/matthewmacartney/Development/Code/performance-budget-pages/site/_src/hmmm.css",
+          "size": 135
+        },
+        {
+          "file": "/Users/matthewmacartney/Development/Code/performance-budget-pages/site/_src/main.css",
+          "size": 136
+        },
+        {
+          "file": "/Users/matthewmacartney/Development/Code/performance-budget-pages/site/_src/test.css",
+          "size": 143
+        }
+      ],
+      "percentage": 1
+    },
+    "js": {
+      "total": 312,
+      "files": [
+        {
+          "file": "/Users/matthewmacartney/Development/Code/performance-budget-pages/site/_src/main.js",
+          "size": 156
+        },
+        {
+          "file": "/Users/matthewmacartney/Development/Code/performance-budget-pages/site/_src/nav.js",
+          "size": 156
+        }
+      ],
+      "percentage": 1
+    }
+  },
+  "budget": 60000,
+  "totalSize": 726,
+  "remainingBudget": 59274
+}

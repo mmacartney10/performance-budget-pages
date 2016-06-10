@@ -1,0 +1,24 @@
+{
+  "name": "performance-budget-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node website.js",
+    "test": "mocha",
+    "phantom": "phantomjs index.js"
+  },
+  "author": "Matthew Macartney",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "chai": "^3.5.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-shell": "^0.5.2",
+    "mocha": "^2.5.3",
+    "performance-budget": "^1.4.2",
+    "run-sequence": "^1.1.5"
+  }
+}
